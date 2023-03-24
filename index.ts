@@ -1,5 +1,3 @@
-console.clear();
-
 class Subscriber<T> implements Observer<T> {
   active = true;
 
